@@ -1,0 +1,4 @@
+beautifulsoup4==4.6.3
+requests==2.20.1
+openpyxl==2.6.1
+transliterate==1.10.2
